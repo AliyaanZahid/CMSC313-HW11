@@ -1,4 +1,4 @@
-** CMSC 313 - Homework 11: Data to ASCII Hex Converter (+ Extra Credit) **
+**       CMSC 313 - Homework 11: Data to ASCII Hex Converter (+ Extra Credit)  **
 
 Author: Mohammad Aliyaan Zahid
 Description
