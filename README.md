@@ -1,8 +1,8 @@
 **       CMSC 313 - Homework 11: Data to ASCII Hex Converter (+ Extra Credit)  **
 
 Author: Mohammad Aliyaan Zahid
-Description
-This program reads a fixed array of byte data (inputBuf) and converts each byte into a two-digit ASCII hexadecimal value. The output string is placed into outputBuf and printed to the terminal.
+
+Description: This program reads a fixed array of byte data (inputBuf) and converts each byte into a two-digit ASCII hexadecimal value. The output string is placed into outputBuf and printed to the terminal.
 
 This program also completes the extra credit requirement: the full byte-to-ASCII conversion is handled by the translate_byte subroutine.
 
